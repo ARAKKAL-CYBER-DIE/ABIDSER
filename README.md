@@ -1,6 +1,6 @@
 <a href="https://bit.ly/3koZRGY"><img src="IMG-20220112-WA0005.jpg" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="250" height="200"/>
+        <img src="https://tinyurl.com/y9wuew2f" alt="GIF" width="250" height="200"/>
 </p>
 
 <div align="center">
@@ -70,7 +70,7 @@ Click Pikachu logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/pikachu-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/CYBER-DIE/ABIDSER.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ARAKKAL-CYBER-DIE/ABIDSER.git)
      </div>
 <br>
 <br >
@@ -129,7 +129,7 @@ Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
 
 ## Contributors
 `Ameer Suhail`
-`Afnanplk`
+`CYBER DIE`
 `Cyberchekuthan`
 `Farhan-Dqz`
 `Saidalisaid`
