@@ -39,9 +39,9 @@ Project created by <a href="https://github.com/CYBER-DIE">CYBER-DIE</a> to make 
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=dark&locale=en" alt="ameer-kallumthodi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ARAKKAL-CYBER-DIE&show_icons=true&theme=dark&locale=en" alt="ARAKKAL-CYBER-DIE" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=dark" alt="ameer-kallumthodi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ARAKKAL-CYBER-DIE&theme=dark" alt="ARAKKAL-CYBER-DIE" /></p>
 </p>
 
 
@@ -90,8 +90,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/ARAKKAL-CYBER-DIE/ABIDSER
+$ cd ABIDSER
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -100,8 +100,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/ARAKKAL-CYBER-DIE/ABIDSER
+$ cd ABIDSER 
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -121,15 +121,15 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
 ## Developers
   <div align="center">
     
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![ARAKKAL-CYBER-DIE](https://github.com/ARAKKAL-CYBER-DIE.png?size=100)](https://github.com/ARAKKAL-CYBER-DIE) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
 [Ameer Suhail](https://github.com/ameer-kallumthodi) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 ## Contributors
-`Ameer Suhail`
-`CYBER DIE`
+`CYBER DIE `
+`AFNAN PLK`
 `Cyberchekuthan`
 `Farhan-Dqz`
 `Saidalisaid`
